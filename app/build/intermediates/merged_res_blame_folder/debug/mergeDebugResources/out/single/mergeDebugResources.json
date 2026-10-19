@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/drawable_widget_bg.xml.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/drawable/widget_bg.xml"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/drawable_ic_previous.xml.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/drawable/ic_previous.xml"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/drawable_ic_music_note.xml.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/drawable/ic_music_note.xml"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/drawable_ic_play.xml.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/xml_file_paths.xml.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/drawable_widget_art_bg.xml.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/drawable/widget_art_bg.xml"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/xml_widget_info.xml.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/xml/widget_info.xml"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/drawable_ic_next.xml.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/drawable/ic_next.xml"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/drawable_ic_pause.xml.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.zephyr.musicplayer.app-debug-79:/layout_widget_music.xml.flat",
+        "source": "com.zephyr.musicplayer.app-main-81:/layout/widget_music.xml"
+    }
+]
