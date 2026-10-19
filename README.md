@@ -16,13 +16,20 @@
 
 <br>
 
-> 📦 **APK releases coming soon** — for now, run Aurora on your own device with the quick-start guide below.
+[![Download the App](https://img.shields.io/badge/Download_The_App-auroramusicai.netlify.app-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://auroramusicai.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Demo,_Details,_Screenshots-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://auroramusicai.netlify.app/)
+
+<br>
+
+> 🎧 **Try Aurora now** — grab the APK and explore the full demo, details, and screenshots at [auroramusicai.netlify.app](https://auroramusicai.netlify.app/). Prefer building it yourself? Follow the quick-start guide below.
 
 </div>
 
 ---
 
 ## 📱 A Look Inside
+
+> 🖥️ Prefer the online tour? The [live site](https://auroramusicai.netlify.app/) hosts the full demo, app details, and screenshots.
 
 <div align="center">
 
@@ -128,7 +135,7 @@ Your freshly built APK will be waiting in `app/build/outputs/apk/debug/`.
 
 <div align="center">
 
-**Aurora Music** · *quietly powerful, unmistakably yours*
+**Aurora Music** · [auroramusicai.netlify.app](https://auroramusicai.netlify.app/) · *quietly powerful, unmistakably yours*
 
 <sub>If Aurora strikes a chord, a ⭐ on the repo means a lot.</sub>
 
